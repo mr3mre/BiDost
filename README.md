@@ -1,5 +1,5 @@
 # BiDost
-Anti-Social Media Application for people to meet each other in person. Instead of using social media apps to make 'friends' online, BiDost offers you a sincere way to make a real friend. Just enter your subject you want to talk. Convert your ghost participants into real friends. For now, BiDost is under production. It will be avaible soon.
+Anti-Social Media Application to meet each other in person. Instead of using social media apps to make 'friends' online, BiDost offers you a sincere way to make a real friend. Just enter your subject you want to talk. Convert your ghost participants into real friends. For now, BiDost is under production. It will be avaible soon.
 
 Figma Prototype can be seen [here](https://www.figma.com/proto/cNnGjPQeLhEcQXPH6QziHG/BiDost?page-id=0%3A1&node-id=1%3A2&viewport=222%2C170%2C0.21&scaling=scale-down&starting-point-node-id=16%3A11490).
 
