@@ -10,10 +10,12 @@ I have done most of the Front-End development. For now, the prototype of the app
 
 # Partial UI of BiDost
 ### Main Page
-![mainScreen](https://user-images.githubusercontent.com/75805905/224848483-5f7586c4-44a7-4bec-9add-4209c4654b3c.png)
+<img width="322" alt="mainScreen" src="https://user-images.githubusercontent.com/75805905/224849434-f5280e5e-269f-4eaf-af4a-602601e97ae7.png">
 
 ### Detail Activity Page
-![detailsScreen](https://user-images.githubusercontent.com/75805905/224848578-495e997d-ebb6-49e8-8f3f-c6e6a8c9e3d0.png)
+<img width="322" alt="detailScreen" src="https://user-images.githubusercontent.com/75805905/224849468-38dd41a3-969d-406c-b8d5-163b36d7bb08.png">
+
+
 
 
 
