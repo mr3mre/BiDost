@@ -15,8 +15,11 @@ I have done most of the Front-End development. For now, the prototype of the app
 ### Detail Activity Page
 <img width="322" alt="detailScreen" src="https://user-images.githubusercontent.com/75805905/224849468-38dd41a3-969d-406c-b8d5-163b36d7bb08.png">
 
+### My Talks Page
+<img width="322" alt="mytalksScreen" src="https://user-images.githubusercontent.com/75805905/224850406-504ef797-614f-4e2d-9258-143ca414bfbd.png">
 
+### Messages Page
+<img width="322" alt="messageScreen" src="https://user-images.githubusercontent.com/75805905/224850438-f3ad7729-9ffa-498b-a949-a0f4c7167c06.png">
 
-
-
-
+### Profile Page
+<img width="322" alt="profileScreen" src="https://user-images.githubusercontent.com/75805905/224850470-d3e84aa1-a5c0-4522-82b8-09da0cdc56c2.png">
